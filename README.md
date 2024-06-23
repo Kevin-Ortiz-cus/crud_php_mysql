@@ -7,4 +7,4 @@ CREATE TABLE `peliculas` (
   `genero` text NOT NULL,
   `descripcion` text NOT NULL,
   `imagen` text NOT NULL
-) E
+)
